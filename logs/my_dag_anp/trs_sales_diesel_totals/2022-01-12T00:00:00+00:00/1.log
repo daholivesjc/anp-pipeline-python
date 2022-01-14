@@ -1,0 +1,81 @@
+[2022-01-14 00:01:53,336] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: my_dag_anp.trs_sales_diesel_totals scheduled__2022-01-12T00:00:00+00:00 [queued]>
+[2022-01-14 00:01:53,368] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: my_dag_anp.trs_sales_diesel_totals scheduled__2022-01-12T00:00:00+00:00 [queued]>
+[2022-01-14 00:01:53,368] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-14 00:01:53,368] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-01-14 00:01:53,368] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-14 00:01:53,415] {taskinstance.py:1259} INFO - Executing <Task(PythonOperator): trs_sales_diesel_totals> on 2022-01-12 00:00:00+00:00
+[2022-01-14 00:01:53,440] {standard_task_runner.py:52} INFO - Started process 2064 to run task
+[2022-01-14 00:01:53,453] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'my_dag_anp', 'trs_sales_diesel_totals', 'scheduled__2022-01-12T00:00:00+00:00', '--job-id', '55', '--raw', '--subdir', 'DAGS_FOLDER/my_dag_anp.py', '--cfg-path', '/tmp/tmpgh_nd8vp', '--error-file', '/tmp/tmp_yl47184']
+[2022-01-14 00:01:53,455] {standard_task_runner.py:77} INFO - Job 55: Subtask trs_sales_diesel_totals
+[2022-01-14 00:01:53,615] {logging_mixin.py:109} INFO - Running <TaskInstance: my_dag_anp.trs_sales_diesel_totals scheduled__2022-01-12T00:00:00+00:00 [running]> on host 9ef8a6cbe880
+[2022-01-14 00:01:53,862] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=my_dag_anp
+AIRFLOW_CTX_TASK_ID=trs_sales_diesel_totals
+AIRFLOW_CTX_EXECUTION_DATE=2022-01-12T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-01-12T00:00:00+00:00
+[2022-01-14 00:01:53,920] {taskinstance.py:1700} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 174, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 185, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/utils.py", line 223, in run_trs_sales_diesel_totals
+    df_sales_diesel_totals = pd.read_parquet(source)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parquet.py", line 500, in read_parquet
+    **kwargs,
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parquet.py", line 236, in read
+    mode="rb",
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parquet.py", line 102, in _get_path_or_handle
+    path_or_handle, mode, is_text=False, storage_options=storage_options
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/common.py", line 711, in get_handle
+    handle = open(handle, ioargs.mode)
+FileNotFoundError: [Errno 2] No such file or directory: 'sink/raw/raw_sales_diesel_totals.parquet'
+[2022-01-14 00:01:54,015] {taskinstance.py:1277} INFO - Marking task as FAILED. dag_id=my_dag_anp, task_id=trs_sales_diesel_totals, execution_date=20220112T000000, start_date=20220114T000153, end_date=20220114T000154
+[2022-01-14 00:01:54,134] {standard_task_runner.py:92} ERROR - Failed to execute job 55 for task trs_sales_diesel_totals
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/task/task_runner/standard_task_runner.py", line 85, in _start_by_fork
+    args.func(args, dag=self.dag)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/commands/task_command.py", line 298, in task_run
+    _run_task_by_selected_method(args, dag, ti)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/commands/task_command.py", line 107, in _run_task_by_selected_method
+    _run_raw_task(args, ti)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/cli/commands/task_command.py", line 184, in _run_raw_task
+    error_file=args.error_file,
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1329, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1455, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1511, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 174, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 185, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/utils.py", line 223, in run_trs_sales_diesel_totals
+    df_sales_diesel_totals = pd.read_parquet(source)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parquet.py", line 500, in read_parquet
+    **kwargs,
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parquet.py", line 236, in read
+    mode="rb",
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/parquet.py", line 102, in _get_path_or_handle
+    path_or_handle, mode, is_text=False, storage_options=storage_options
+  File "/home/airflow/.local/lib/python3.7/site-packages/pandas/io/common.py", line 711, in get_handle
+    handle = open(handle, ioargs.mode)
+FileNotFoundError: [Errno 2] No such file or directory: 'sink/raw/raw_sales_diesel_totals.parquet'
+[2022-01-14 00:01:54,181] {local_task_job.py:154} INFO - Task exited with return code 1
+[2022-01-14 00:01:54,308] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

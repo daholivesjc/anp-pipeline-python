@@ -1,0 +1,22 @@
+[2022-01-14 00:27:18,031] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: my_dag_anp.trs_sales_oil_derivative_totals manual__2022-01-14T00:23:02.345120+00:00 [queued]>
+[2022-01-14 00:27:18,099] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: my_dag_anp.trs_sales_oil_derivative_totals manual__2022-01-14T00:23:02.345120+00:00 [queued]>
+[2022-01-14 00:27:18,099] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-14 00:27:18,099] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-01-14 00:27:18,100] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-01-14 00:27:18,187] {taskinstance.py:1259} INFO - Executing <Task(PythonOperator): trs_sales_oil_derivative_totals> on 2022-01-14 00:23:02.345120+00:00
+[2022-01-14 00:27:18,202] {standard_task_runner.py:52} INFO - Started process 3309 to run task
+[2022-01-14 00:27:18,211] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'my_dag_anp', 'trs_sales_oil_derivative_totals', 'manual__2022-01-14T00:23:02.345120+00:00', '--job-id', '77', '--raw', '--subdir', 'DAGS_FOLDER/my_dag_anp.py', '--cfg-path', '/tmp/tmpmmvubp0w', '--error-file', '/tmp/tmp8gv790m8']
+[2022-01-14 00:27:18,212] {standard_task_runner.py:77} INFO - Job 77: Subtask trs_sales_oil_derivative_totals
+[2022-01-14 00:27:18,470] {logging_mixin.py:109} INFO - Running <TaskInstance: my_dag_anp.trs_sales_oil_derivative_totals manual__2022-01-14T00:23:02.345120+00:00 [running]> on host 9ef8a6cbe880
+[2022-01-14 00:27:19,265] {taskinstance.py:1426} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=my_dag_anp
+AIRFLOW_CTX_TASK_ID=trs_sales_oil_derivative_totals
+AIRFLOW_CTX_EXECUTION_DATE=2022-01-14T00:23:02.345120+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-01-14T00:23:02.345120+00:00
+[2022-01-14 00:27:19,380] {python.py:175} INFO - Done. Returned value was: True
+[2022-01-14 00:27:19,497] {taskinstance.py:1277} INFO - Marking task as SUCCESS. dag_id=my_dag_anp, task_id=trs_sales_oil_derivative_totals, execution_date=20220114T002302, start_date=20220114T002718, end_date=20220114T002719
+[2022-01-14 00:27:19,668] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-01-14 00:27:19,756] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,231 @@
+[2022-01-13 22:22:44,934] {processor.py:163} INFO - Started process (PID=1131) to work on /opt/airflow/dags/wkf_anp_pipe.py
+[2022-01-13 22:22:44,935] {processor.py:642} INFO - Processing file /opt/airflow/dags/wkf_anp_pipe.py for tasks to queue
+[2022-01-13 22:22:44,936] {logging_mixin.py:109} INFO - [2022-01-13 22:22:44,936] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/wkf_anp_pipe.py
+[2022-01-13 22:23:14,943] {logging_mixin.py:109} INFO - [2022-01-13 22:23:14,939] {timeout.py:36} ERROR - Process timed out, PID: 1131
+[2022-01-13 22:23:14,945] {logging_mixin.py:109} INFO - [2022-01-13 22:23:14,943] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/wkf_anp_pipe.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/wkf_anp_pipe.py", line 9, in <module>
+    import raw.raw_sales_oil_derivative as raw_sales_oil_derivative
+  File "/opt/airflow/dags/raw/raw_sales_oil_derivative.py", line 20, in <module>
+    sheet=sheet1
+  File "/opt/airflow/dags/utils.py", line 16, in get_sheet
+    workbook = get_workbook(path)
+  File "/opt/airflow/dags/utils.py", line 9, in get_workbook
+    wb = load_workbook(path)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 317, in load_workbook
+    reader.read()
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 282, in read
+    self.read_worksheets()
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 269, in read_worksheets
+    pivot.cache = self.parser.pivot_caches[pivot.cacheId]
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/workbook.py", line 123, in pivot_caches
+    records = get_rel(self.archive, cache.deps, cache.id, RecordList)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/packaging/relationship.py", line 168, in get_rel
+    obj = cls.from_tree(tree)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 87, in from_tree
+    obj = desc.expected_type.from_tree(el)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 85, in from_tree
+    if hasattr(desc.expected_type, "from_tree"):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 37, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/wkf_anp_pipe.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#reducing-dag-complexity, PID: 1131
+[2022-01-13 22:23:15,072] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/wkf_anp_pipe.py
+[2022-01-13 22:23:15,088] {processor.py:171} INFO - Processing /opt/airflow/dags/wkf_anp_pipe.py took 30.159 seconds
+[2022-01-13 22:23:45,555] {processor.py:163} INFO - Started process (PID=1236) to work on /opt/airflow/dags/wkf_anp_pipe.py
+[2022-01-13 22:23:45,559] {processor.py:642} INFO - Processing file /opt/airflow/dags/wkf_anp_pipe.py for tasks to queue
+[2022-01-13 22:23:45,560] {logging_mixin.py:109} INFO - [2022-01-13 22:23:45,560] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/wkf_anp_pipe.py
+[2022-01-13 22:24:15,562] {logging_mixin.py:109} INFO - [2022-01-13 22:24:15,561] {timeout.py:36} ERROR - Process timed out, PID: 1236
+[2022-01-13 22:24:15,565] {logging_mixin.py:109} INFO - [2022-01-13 22:24:15,562] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/wkf_anp_pipe.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/wkf_anp_pipe.py", line 9, in <module>
+    import raw.raw_sales_oil_derivative as raw_sales_oil_derivative
+  File "/opt/airflow/dags/raw/raw_sales_oil_derivative.py", line 20, in <module>
+    sheet=sheet1
+  File "/opt/airflow/dags/utils.py", line 16, in get_sheet
+    workbook = get_workbook(path)
+  File "/opt/airflow/dags/utils.py", line 9, in get_workbook
+    wb = load_workbook(path)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 317, in load_workbook
+    reader.read()
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 282, in read
+    self.read_worksheets()
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 269, in read_worksheets
+    pivot.cache = self.parser.pivot_caches[pivot.cacheId]
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/workbook.py", line 121, in pivot_caches
+    cache = get_rel(self.archive, self.rels, id=c.id, cls=CacheDefinition)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/packaging/relationship.py", line 168, in get_rel
+    obj = cls.from_tree(tree)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 83, in from_tree
+    obj = desc.from_tree(el)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/sequence.py", line 85, in from_tree
+    return [self.expected_type.from_tree(el) for el in node]
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/sequence.py", line 85, in <listcomp>
+    return [self.expected_type.from_tree(el) for el in node]
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 87, in from_tree
+    obj = desc.expected_type.from_tree(el)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 87, in from_tree
+    obj = desc.expected_type.from_tree(el)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 103, in from_tree
+    return cls(**attrib)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/pivot/fields.py", line 150, in __init__
+    self.c = c
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/base.py", line 39, in __set__
+    if not isinstance(value, self.expected_type):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 37, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/wkf_anp_pipe.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#reducing-dag-complexity, PID: 1236
+[2022-01-13 22:24:15,614] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/wkf_anp_pipe.py
+[2022-01-13 22:24:15,626] {processor.py:171} INFO - Processing /opt/airflow/dags/wkf_anp_pipe.py took 30.075 seconds
+[2022-01-13 22:24:45,768] {processor.py:163} INFO - Started process (PID=1362) to work on /opt/airflow/dags/wkf_anp_pipe.py
+[2022-01-13 22:24:45,769] {processor.py:642} INFO - Processing file /opt/airflow/dags/wkf_anp_pipe.py for tasks to queue
+[2022-01-13 22:24:45,770] {logging_mixin.py:109} INFO - [2022-01-13 22:24:45,770] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/wkf_anp_pipe.py
+[2022-01-13 22:25:15,771] {logging_mixin.py:109} INFO - [2022-01-13 22:25:15,771] {timeout.py:36} ERROR - Process timed out, PID: 1362
+[2022-01-13 22:25:15,774] {logging_mixin.py:109} INFO - [2022-01-13 22:25:15,772] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/wkf_anp_pipe.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/wkf_anp_pipe.py", line 9, in <module>
+    import raw.raw_sales_oil_derivative as raw_sales_oil_derivative
+  File "/opt/airflow/dags/raw/raw_sales_oil_derivative.py", line 20, in <module>
+    sheet=sheet1
+  File "/opt/airflow/dags/utils.py", line 16, in get_sheet
+    workbook = get_workbook(path)
+  File "/opt/airflow/dags/utils.py", line 9, in get_workbook
+    wb = load_workbook(path)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 317, in load_workbook
+    reader.read()
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 282, in read
+    self.read_worksheets()
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 269, in read_worksheets
+    pivot.cache = self.parser.pivot_caches[pivot.cacheId]
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/workbook.py", line 123, in pivot_caches
+    records = get_rel(self.archive, cache.deps, cache.id, RecordList)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/packaging/relationship.py", line 168, in get_rel
+    obj = cls.from_tree(tree)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 87, in from_tree
+    obj = desc.expected_type.from_tree(el)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 87, in from_tree
+    obj = desc.expected_type.from_tree(el)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 59, in from_tree
+    for key in list(attrib):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 37, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/wkf_anp_pipe.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#reducing-dag-complexity, PID: 1362
+[2022-01-13 22:25:15,874] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/wkf_anp_pipe.py
+[2022-01-13 22:25:15,889] {processor.py:171} INFO - Processing /opt/airflow/dags/wkf_anp_pipe.py took 30.124 seconds
+[2022-01-13 22:25:29,703] {processor.py:163} INFO - Started process (PID=1445) to work on /opt/airflow/dags/wkf_anp_pipe.py
+[2022-01-13 22:25:29,713] {processor.py:642} INFO - Processing file /opt/airflow/dags/wkf_anp_pipe.py for tasks to queue
+[2022-01-13 22:25:29,713] {logging_mixin.py:109} INFO - [2022-01-13 22:25:29,713] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/wkf_anp_pipe.py
+[2022-01-13 22:25:59,715] {logging_mixin.py:109} INFO - [2022-01-13 22:25:59,714] {timeout.py:36} ERROR - Process timed out, PID: 1445
+[2022-01-13 22:25:59,743] {logging_mixin.py:109} INFO - [2022-01-13 22:25:59,741] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/wkf_anp_pipe.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/wkf_anp_pipe.py", line 9, in <module>
+    import raw.raw_sales_oil_derivative as raw_sales_oil_derivative
+  File "/opt/airflow/dags/raw/raw_sales_oil_derivative.py", line 20, in <module>
+    sheet=sheet1
+  File "/opt/airflow/dags/utils.py", line 16, in get_sheet
+    workbook = get_workbook(path)
+  File "/opt/airflow/dags/utils.py", line 9, in get_workbook
+    wb = load_workbook(path)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 317, in load_workbook
+    reader.read()
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 282, in read
+    self.read_worksheets()
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 269, in read_worksheets
+    pivot.cache = self.parser.pivot_caches[pivot.cacheId]
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/workbook.py", line 121, in pivot_caches
+    cache = get_rel(self.archive, self.rels, id=c.id, cls=CacheDefinition)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/packaging/relationship.py", line 168, in get_rel
+    obj = cls.from_tree(tree)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 83, in from_tree
+    obj = desc.from_tree(el)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/sequence.py", line 85, in from_tree
+    return [self.expected_type.from_tree(el) for el in node]
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/sequence.py", line 85, in <listcomp>
+    return [self.expected_type.from_tree(el) for el in node]
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 87, in from_tree
+    obj = desc.expected_type.from_tree(el)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 87, in from_tree
+    obj = desc.expected_type.from_tree(el)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 59, in from_tree
+    for key in list(attrib):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 37, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/wkf_anp_pipe.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#reducing-dag-complexity, PID: 1445
+[2022-01-13 22:25:59,796] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/wkf_anp_pipe.py
+[2022-01-13 22:25:59,815] {processor.py:171} INFO - Processing /opt/airflow/dags/wkf_anp_pipe.py took 30.116 seconds
+[2022-01-13 22:26:29,958] {processor.py:163} INFO - Started process (PID=1555) to work on /opt/airflow/dags/wkf_anp_pipe.py
+[2022-01-13 22:26:29,972] {processor.py:642} INFO - Processing file /opt/airflow/dags/wkf_anp_pipe.py for tasks to queue
+[2022-01-13 22:26:29,973] {logging_mixin.py:109} INFO - [2022-01-13 22:26:29,972] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/wkf_anp_pipe.py
+[2022-01-13 22:26:59,974] {logging_mixin.py:109} INFO - [2022-01-13 22:26:59,974] {timeout.py:36} ERROR - Process timed out, PID: 1555
+[2022-01-13 22:26:59,977] {logging_mixin.py:109} INFO - [2022-01-13 22:26:59,975] {dagbag.py:334} ERROR - Failed to import: /opt/airflow/dags/wkf_anp_pipe.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/wkf_anp_pipe.py", line 9, in <module>
+  File "/opt/airflow/dags/raw/raw_sales_oil_derivative.py", line 20, in <module>
+    sheet=sheet1
+  File "/opt/airflow/dags/utils.py", line 16, in get_sheet
+    workbook = get_workbook(path)
+  File "/opt/airflow/dags/utils.py", line 9, in get_workbook
+    wb = load_workbook(path)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 317, in load_workbook
+    reader.read()
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 282, in read
+    self.read_worksheets()
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 269, in read_worksheets
+    pivot.cache = self.parser.pivot_caches[pivot.cacheId]
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/reader/workbook.py", line 123, in pivot_caches
+    records = get_rel(self.archive, cache.deps, cache.id, RecordList)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/packaging/relationship.py", line 168, in get_rel
+    obj = cls.from_tree(tree)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 87, in from_tree
+    obj = desc.expected_type.from_tree(el)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 87, in from_tree
+    obj = desc.expected_type.from_tree(el)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/serialisable.py", line 103, in from_tree
+    return cls(**attrib)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/pivot/fields.py", line 24, in __init__
+    self.v = v
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/base.py", line 68, in __set__
+    super(Convertible, self).__set__(instance, value)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/base.py", line 43, in __set__
+    super(Typed, self).__set__(instance, value)
+  File "/home/airflow/.local/lib/python3.7/site-packages/openpyxl/descriptors/base.py", line 24, in __set__
+    instance.__dict__[self.name] = value
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/timeout.py", line 37, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/wkf_anp_pipe.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.2.3/best-practices.html#reducing-dag-complexity, PID: 1555
+[2022-01-13 22:27:00,012] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/wkf_anp_pipe.py
+[2022-01-13 22:27:00,028] {processor.py:171} INFO - Processing /opt/airflow/dags/wkf_anp_pipe.py took 30.076 seconds
