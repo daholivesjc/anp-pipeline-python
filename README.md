@@ -59,4 +59,4 @@ Clique na DAG `my_dag_anp` e em seguida clique na barra de ferramentas em `Graph
 ![alt text](/images/airflow2.png)
 
 
-### Observação: As últimas duas tasks do pipeline, `rfn_sales_diesel_check_totals` e `rfn_sales_oil_derivative_check_totals` tem como objetivo validar se os totais das tabelas dinâmicas batem com os valores carregados pelo pipeline.
+_Observação_: As últimas duas tasks do pipeline, `rfn_sales_diesel_check_totals` e `rfn_sales_oil_derivative_check_totals` tem como objetivo validar se os totais das tabelas dinâmicas batem com os valores carregados pelo pipeline.
