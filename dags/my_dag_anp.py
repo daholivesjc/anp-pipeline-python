@@ -76,7 +76,7 @@ with DAG("my_dag_anp", start_date=datetime(2022,1,12), schedule_interval="@daily
     )
 
     rfn_sales_diesel_check_totals = PythonOperator(
-        task_id="rfn_salerfn_sales_diesel_check_totalss_oil_derivative",
+        task_id="rfn_sales_diesel_check_totals",
         python_callable=run_rfn_sales_diesel_check_totals
     )
 
@@ -90,3 +90,7 @@ with DAG("my_dag_anp", start_date=datetime(2022,1,12), schedule_interval="@daily
     rfn_sales_diesel >> rfn_sales_diesel_check_totals
 
     rfn_sales_oil_derivative >> rfn_sales_oil_derivative_check_totals
+
+    end = DummyOperator(task_id='end')
+
+    [rfn_sales_diesel_check_totals,rfn_sales_oil_derivative_check_totals] >> end

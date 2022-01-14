@@ -288,3 +288,703 @@
 [2022-01-14 00:29:03,265] {logging_mixin.py:109} INFO - [2022-01-14 00:29:03,265] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
 [2022-01-14 00:29:03,291] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
 [2022-01-14 00:29:03,296] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.039 seconds
+[2022-01-14 22:23:43,818] {processor.py:163} INFO - Started process (PID=69) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:23:43,823] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:23:43,824] {logging_mixin.py:109} INFO - [2022-01-14 22:23:43,824] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:23:43,926] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:23:43,961] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.158 seconds
+[2022-01-14 22:24:19,220] {processor.py:163} INFO - Started process (PID=98) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:24:19,235] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:24:19,236] {logging_mixin.py:109} INFO - [2022-01-14 22:24:19,235] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:24:19,355] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:24:19,381] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.163 seconds
+[2022-01-14 22:24:50,650] {processor.py:163} INFO - Started process (PID=130) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:24:50,651] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:24:50,652] {logging_mixin.py:109} INFO - [2022-01-14 22:24:50,652] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:24:50,672] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:24:50,675] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.028 seconds
+[2022-01-14 22:25:21,709] {processor.py:163} INFO - Started process (PID=159) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:25:21,714] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:25:21,715] {logging_mixin.py:109} INFO - [2022-01-14 22:25:21,715] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:25:21,736] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:25:21,740] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.035 seconds
+[2022-01-14 22:25:53,628] {processor.py:163} INFO - Started process (PID=198) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:25:53,639] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:25:53,639] {logging_mixin.py:109} INFO - [2022-01-14 22:25:53,639] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:25:53,691] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:25:53,696] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.073 seconds
+[2022-01-14 22:26:25,044] {processor.py:163} INFO - Started process (PID=227) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:26:25,045] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:26:25,046] {logging_mixin.py:109} INFO - [2022-01-14 22:26:25,046] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:26:25,080] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:26:25,088] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.048 seconds
+[2022-01-14 22:26:56,273] {processor.py:163} INFO - Started process (PID=260) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:26:56,277] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:26:56,277] {logging_mixin.py:109} INFO - [2022-01-14 22:26:56,277] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:26:56,295] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:26:56,299] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.028 seconds
+[2022-01-14 22:27:27,410] {processor.py:163} INFO - Started process (PID=290) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:27:27,411] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:27:27,412] {logging_mixin.py:109} INFO - [2022-01-14 22:27:27,412] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:27:27,430] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:27:27,434] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.027 seconds
+[2022-01-14 22:27:58,841] {processor.py:163} INFO - Started process (PID=330) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:27:58,846] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:27:58,848] {logging_mixin.py:109} INFO - [2022-01-14 22:27:58,848] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:27:58,880] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:27:58,884] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.048 seconds
+[2022-01-14 22:28:29,107] {processor.py:163} INFO - Started process (PID=351) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:28:29,108] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:28:29,109] {logging_mixin.py:109} INFO - [2022-01-14 22:28:29,109] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:28:29,139] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:28:29,144] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.043 seconds
+[2022-01-14 22:28:59,514] {processor.py:163} INFO - Started process (PID=380) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:28:59,519] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:28:59,520] {logging_mixin.py:109} INFO - [2022-01-14 22:28:59,520] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:28:59,544] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:28:59,548] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.037 seconds
+[2022-01-14 22:29:29,706] {processor.py:163} INFO - Started process (PID=410) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:29:29,712] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:29:29,713] {logging_mixin.py:109} INFO - [2022-01-14 22:29:29,713] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:29:29,732] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:29:29,736] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.034 seconds
+[2022-01-14 22:30:00,008] {processor.py:163} INFO - Started process (PID=456) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:30:00,011] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:30:00,013] {logging_mixin.py:109} INFO - [2022-01-14 22:30:00,012] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:30:00,036] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:30:00,041] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.036 seconds
+[2022-01-14 22:30:30,201] {processor.py:163} INFO - Started process (PID=491) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:30:30,205] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:30:30,208] {logging_mixin.py:109} INFO - [2022-01-14 22:30:30,208] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:30:30,241] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:30:30,245] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.049 seconds
+[2022-01-14 22:31:00,536] {processor.py:163} INFO - Started process (PID=523) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:31:00,538] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:31:00,538] {logging_mixin.py:109} INFO - [2022-01-14 22:31:00,538] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:31:00,565] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:31:00,571] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.038 seconds
+[2022-01-14 22:31:30,701] {processor.py:163} INFO - Started process (PID=552) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:31:30,717] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:31:30,718] {logging_mixin.py:109} INFO - [2022-01-14 22:31:30,718] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:31:30,754] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:31:30,759] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.061 seconds
+[2022-01-14 22:32:01,041] {processor.py:163} INFO - Started process (PID=582) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:32:01,043] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:32:01,044] {logging_mixin.py:109} INFO - [2022-01-14 22:32:01,043] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:32:01,071] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:32:01,076] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.039 seconds
+[2022-01-14 22:32:31,237] {processor.py:163} INFO - Started process (PID=612) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:32:31,256] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:32:31,257] {logging_mixin.py:109} INFO - [2022-01-14 22:32:31,256] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:32:31,285] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:32:31,291] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.058 seconds
+[2022-01-14 22:33:01,634] {processor.py:163} INFO - Started process (PID=641) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:33:01,635] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:33:01,636] {logging_mixin.py:109} INFO - [2022-01-14 22:33:01,636] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:33:01,660] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:33:01,664] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.034 seconds
+[2022-01-14 22:33:32,113] {processor.py:163} INFO - Started process (PID=671) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:33:32,135] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:33:32,136] {logging_mixin.py:109} INFO - [2022-01-14 22:33:32,136] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:33:32,165] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:33:32,169] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.060 seconds
+[2022-01-14 22:34:03,037] {processor.py:163} INFO - Started process (PID=702) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:34:03,038] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:34:03,039] {logging_mixin.py:109} INFO - [2022-01-14 22:34:03,039] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:34:03,071] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:34:03,076] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.046 seconds
+[2022-01-14 22:34:33,243] {processor.py:163} INFO - Started process (PID=744) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:34:33,270] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:34:33,270] {logging_mixin.py:109} INFO - [2022-01-14 22:34:33,270] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:34:33,305] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:34:33,312] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.071 seconds
+[2022-01-14 22:35:03,334] {processor.py:163} INFO - Started process (PID=776) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:35:03,335] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:35:03,336] {logging_mixin.py:109} INFO - [2022-01-14 22:35:03,336] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:35:03,352] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:35:03,356] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.024 seconds
+[2022-01-14 22:35:33,556] {processor.py:163} INFO - Started process (PID=813) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:35:33,586] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:35:33,588] {logging_mixin.py:109} INFO - [2022-01-14 22:35:33,588] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:35:33,617] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:35:33,622] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.073 seconds
+[2022-01-14 22:36:03,836] {processor.py:163} INFO - Started process (PID=846) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:36:03,858] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:36:03,859] {logging_mixin.py:109} INFO - [2022-01-14 22:36:03,859] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:36:03,917] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:36:03,925] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.099 seconds
+[2022-01-14 22:36:33,991] {processor.py:163} INFO - Started process (PID=881) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:36:33,993] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:36:33,994] {logging_mixin.py:109} INFO - [2022-01-14 22:36:33,994] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:36:34,013] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:36:34,016] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.028 seconds
+[2022-01-14 22:37:04,215] {processor.py:163} INFO - Started process (PID=914) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:37:04,217] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:37:04,218] {logging_mixin.py:109} INFO - [2022-01-14 22:37:04,218] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:37:04,248] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:37:04,252] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.049 seconds
+[2022-01-14 22:37:34,380] {processor.py:163} INFO - Started process (PID=946) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:37:34,391] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:37:34,393] {logging_mixin.py:109} INFO - [2022-01-14 22:37:34,392] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:37:34,435] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:37:34,440] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.064 seconds
+[2022-01-14 22:38:04,783] {processor.py:163} INFO - Started process (PID=975) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:38:04,788] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:38:04,789] {logging_mixin.py:109} INFO - [2022-01-14 22:38:04,789] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:38:04,812] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:38:04,817] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.040 seconds
+[2022-01-14 22:38:35,134] {processor.py:163} INFO - Started process (PID=1007) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:38:35,140] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:38:35,143] {logging_mixin.py:109} INFO - [2022-01-14 22:38:35,143] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:38:35,179] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:38:35,185] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.055 seconds
+[2022-01-14 22:39:05,294] {processor.py:163} INFO - Started process (PID=1046) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:39:05,302] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:39:05,317] {logging_mixin.py:109} INFO - [2022-01-14 22:39:05,310] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:39:05,366] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:39:05,376] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.086 seconds
+[2022-01-14 22:39:35,608] {processor.py:163} INFO - Started process (PID=1071) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:39:35,610] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:39:35,611] {logging_mixin.py:109} INFO - [2022-01-14 22:39:35,611] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:39:35,638] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:39:35,643] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.039 seconds
+[2022-01-14 22:40:05,968] {processor.py:163} INFO - Started process (PID=1100) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:40:05,980] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:40:05,981] {logging_mixin.py:109} INFO - [2022-01-14 22:40:05,981] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:40:06,012] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:40:06,016] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.053 seconds
+[2022-01-14 22:40:36,411] {processor.py:163} INFO - Started process (PID=1133) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:40:36,412] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:40:36,416] {logging_mixin.py:109} INFO - [2022-01-14 22:40:36,416] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:40:36,452] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:40:36,460] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.057 seconds
+[2022-01-14 22:41:06,603] {processor.py:163} INFO - Started process (PID=1181) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:41:06,605] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:41:06,605] {logging_mixin.py:109} INFO - [2022-01-14 22:41:06,605] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:41:06,622] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:41:06,626] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.026 seconds
+[2022-01-14 22:41:36,779] {processor.py:163} INFO - Started process (PID=1218) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:41:36,780] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:41:36,781] {logging_mixin.py:109} INFO - [2022-01-14 22:41:36,781] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:41:36,803] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:41:36,807] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.031 seconds
+[2022-01-14 22:42:06,931] {processor.py:163} INFO - Started process (PID=1247) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:42:06,935] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:42:06,936] {logging_mixin.py:109} INFO - [2022-01-14 22:42:06,936] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:42:06,963] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:42:06,966] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.042 seconds
+[2022-01-14 22:42:37,139] {processor.py:163} INFO - Started process (PID=1278) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:42:37,143] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:42:37,145] {logging_mixin.py:109} INFO - [2022-01-14 22:42:37,144] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:42:37,166] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:42:37,170] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.042 seconds
+[2022-01-14 22:43:08,157] {processor.py:163} INFO - Started process (PID=1316) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:43:08,178] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:43:08,179] {logging_mixin.py:109} INFO - [2022-01-14 22:43:08,179] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:43:08,196] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:43:08,200] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.047 seconds
+[2022-01-14 22:43:38,446] {processor.py:163} INFO - Started process (PID=1358) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:43:38,447] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:43:38,448] {logging_mixin.py:109} INFO - [2022-01-14 22:43:38,448] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:43:38,470] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:43:38,474] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.032 seconds
+[2022-01-14 22:44:08,591] {processor.py:163} INFO - Started process (PID=1390) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:44:08,593] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:44:08,594] {logging_mixin.py:109} INFO - [2022-01-14 22:44:08,593] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:44:08,612] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:44:08,617] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.028 seconds
+[2022-01-14 22:44:38,773] {processor.py:163} INFO - Started process (PID=1419) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:44:38,774] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:44:38,775] {logging_mixin.py:109} INFO - [2022-01-14 22:44:38,775] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:44:38,793] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:44:38,796] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.026 seconds
+[2022-01-14 22:45:08,923] {processor.py:163} INFO - Started process (PID=1451) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:45:08,925] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:45:08,925] {logging_mixin.py:109} INFO - [2022-01-14 22:45:08,925] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:45:08,951] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:45:08,955] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.036 seconds
+[2022-01-14 22:45:39,096] {processor.py:163} INFO - Started process (PID=1489) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:45:39,129] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:45:39,132] {logging_mixin.py:109} INFO - [2022-01-14 22:45:39,131] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:45:39,178] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:45:39,182] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.095 seconds
+[2022-01-14 22:46:09,387] {processor.py:163} INFO - Started process (PID=1521) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:46:09,391] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:46:09,393] {logging_mixin.py:109} INFO - [2022-01-14 22:46:09,393] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:46:09,451] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:46:09,458] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.084 seconds
+[2022-01-14 22:46:39,668] {processor.py:163} INFO - Started process (PID=1551) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:46:39,700] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:46:39,701] {logging_mixin.py:109} INFO - [2022-01-14 22:46:39,700] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:46:39,726] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:46:39,731] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.067 seconds
+[2022-01-14 22:47:09,883] {processor.py:163} INFO - Started process (PID=1591) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:47:09,884] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:47:09,885] {logging_mixin.py:109} INFO - [2022-01-14 22:47:09,885] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:47:09,909] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:47:09,912] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.033 seconds
+[2022-01-14 22:47:39,938] {processor.py:163} INFO - Started process (PID=1621) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:47:39,972] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:47:39,972] {logging_mixin.py:109} INFO - [2022-01-14 22:47:39,972] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:47:39,991] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:47:39,994] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.061 seconds
+[2022-01-14 22:48:10,141] {processor.py:163} INFO - Started process (PID=1653) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:48:10,143] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:48:10,144] {logging_mixin.py:109} INFO - [2022-01-14 22:48:10,143] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:48:10,172] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:48:10,301] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.163 seconds
+[2022-01-14 22:48:40,598] {processor.py:163} INFO - Started process (PID=1690) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:48:40,603] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:48:40,604] {logging_mixin.py:109} INFO - [2022-01-14 22:48:40,604] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:48:40,622] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:48:40,626] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.033 seconds
+[2022-01-14 22:49:10,740] {processor.py:163} INFO - Started process (PID=1730) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:49:10,742] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:49:10,742] {logging_mixin.py:109} INFO - [2022-01-14 22:49:10,742] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:49:10,764] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:49:10,768] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.031 seconds
+[2022-01-14 22:49:41,675] {processor.py:163} INFO - Started process (PID=1759) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:49:41,683] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:49:41,685] {logging_mixin.py:109} INFO - [2022-01-14 22:49:41,685] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:49:41,707] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:49:41,711] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.039 seconds
+[2022-01-14 22:50:11,781] {processor.py:163} INFO - Started process (PID=1790) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:50:11,782] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:50:11,783] {logging_mixin.py:109} INFO - [2022-01-14 22:50:11,783] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:50:11,800] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:50:11,803] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.025 seconds
+[2022-01-14 22:50:42,738] {processor.py:163} INFO - Started process (PID=1831) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:50:42,746] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:50:42,747] {logging_mixin.py:109} INFO - [2022-01-14 22:50:42,747] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:50:42,791] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:50:42,798] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.081 seconds
+[2022-01-14 22:51:13,643] {processor.py:163} INFO - Started process (PID=1861) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:51:13,644] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:51:13,645] {logging_mixin.py:109} INFO - [2022-01-14 22:51:13,645] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:51:13,664] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:51:13,669] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.029 seconds
+[2022-01-14 22:51:43,717] {processor.py:163} INFO - Started process (PID=1892) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:51:43,719] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:51:43,720] {logging_mixin.py:109} INFO - [2022-01-14 22:51:43,720] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:51:43,773] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:51:43,778] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.065 seconds
+[2022-01-14 22:52:13,944] {processor.py:163} INFO - Started process (PID=1935) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:52:13,946] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:52:13,947] {logging_mixin.py:109} INFO - [2022-01-14 22:52:13,946] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:52:13,975] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:52:13,979] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.039 seconds
+[2022-01-14 22:52:44,910] {processor.py:163} INFO - Started process (PID=1964) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:52:44,914] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:52:44,915] {logging_mixin.py:109} INFO - [2022-01-14 22:52:44,915] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:52:44,944] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:52:44,948] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.043 seconds
+[2022-01-14 22:53:15,971] {processor.py:163} INFO - Started process (PID=2000) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:53:15,972] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:53:15,973] {logging_mixin.py:109} INFO - [2022-01-14 22:53:15,973] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:53:16,006] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:53:16,010] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.043 seconds
+[2022-01-14 22:53:46,208] {processor.py:163} INFO - Started process (PID=2031) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:53:46,211] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:53:46,213] {logging_mixin.py:109} INFO - [2022-01-14 22:53:46,213] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:53:46,249] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:53:46,254] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.058 seconds
+[2022-01-14 22:54:16,437] {processor.py:163} INFO - Started process (PID=2070) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:54:16,445] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:54:16,446] {logging_mixin.py:109} INFO - [2022-01-14 22:54:16,446] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:54:16,496] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:54:16,512] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.079 seconds
+[2022-01-14 22:54:47,452] {processor.py:163} INFO - Started process (PID=2101) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:54:47,454] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:54:47,455] {logging_mixin.py:109} INFO - [2022-01-14 22:54:47,455] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:54:47,473] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:54:47,476] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.031 seconds
+[2022-01-14 22:55:17,511] {processor.py:163} INFO - Started process (PID=2133) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:55:17,513] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:55:17,514] {logging_mixin.py:109} INFO - [2022-01-14 22:55:17,513] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:55:17,533] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:55:17,536] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.029 seconds
+[2022-01-14 22:55:47,673] {processor.py:163} INFO - Started process (PID=2172) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:55:47,674] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:55:47,675] {logging_mixin.py:109} INFO - [2022-01-14 22:55:47,675] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:55:47,693] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:55:47,696] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.026 seconds
+[2022-01-14 22:56:17,918] {processor.py:163} INFO - Started process (PID=2200) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:56:17,923] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:56:17,925] {logging_mixin.py:109} INFO - [2022-01-14 22:56:17,925] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:56:17,966] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:56:17,971] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.057 seconds
+[2022-01-14 22:56:48,105] {processor.py:163} INFO - Started process (PID=2228) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:56:48,107] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:56:48,107] {logging_mixin.py:109} INFO - [2022-01-14 22:56:48,107] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:56:48,127] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:56:48,130] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.028 seconds
+[2022-01-14 22:57:18,952] {processor.py:163} INFO - Started process (PID=2265) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:57:18,956] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:57:18,957] {logging_mixin.py:109} INFO - [2022-01-14 22:57:18,957] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:57:18,992] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:57:18,999] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.058 seconds
+[2022-01-14 22:57:49,165] {processor.py:163} INFO - Started process (PID=2298) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:57:49,166] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:57:49,167] {logging_mixin.py:109} INFO - [2022-01-14 22:57:49,166] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:57:49,186] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:57:49,189] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.027 seconds
+[2022-01-14 22:58:19,314] {processor.py:163} INFO - Started process (PID=2329) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:58:19,318] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:58:19,319] {logging_mixin.py:109} INFO - [2022-01-14 22:58:19,319] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:58:19,337] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:58:19,341] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.033 seconds
+[2022-01-14 22:58:49,409] {processor.py:163} INFO - Started process (PID=2362) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:58:49,410] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:58:49,411] {logging_mixin.py:109} INFO - [2022-01-14 22:58:49,411] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:58:49,429] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:58:49,434] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.028 seconds
+[2022-01-14 22:59:19,580] {processor.py:163} INFO - Started process (PID=2401) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:59:19,587] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:59:19,588] {logging_mixin.py:109} INFO - [2022-01-14 22:59:19,588] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:59:19,609] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:59:19,613] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.036 seconds
+[2022-01-14 22:59:49,745] {processor.py:163} INFO - Started process (PID=2433) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:59:49,748] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 22:59:49,750] {logging_mixin.py:109} INFO - [2022-01-14 22:59:49,750] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:59:49,778] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 22:59:49,782] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.045 seconds
+[2022-01-14 23:00:19,967] {processor.py:163} INFO - Started process (PID=2463) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:00:19,969] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:00:19,970] {logging_mixin.py:109} INFO - [2022-01-14 23:00:19,969] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:00:19,989] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:00:19,993] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.029 seconds
+[2022-01-14 23:00:50,156] {processor.py:163} INFO - Started process (PID=2494) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:00:50,157] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:00:50,158] {logging_mixin.py:109} INFO - [2022-01-14 23:00:50,158] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:00:50,176] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:00:50,180] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.039 seconds
+[2022-01-14 23:01:20,356] {processor.py:163} INFO - Started process (PID=2532) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:01:20,359] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:01:20,360] {logging_mixin.py:109} INFO - [2022-01-14 23:01:20,360] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:01:20,384] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:01:20,394] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.042 seconds
+[2022-01-14 23:01:50,537] {processor.py:163} INFO - Started process (PID=2564) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:01:50,538] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:01:50,539] {logging_mixin.py:109} INFO - [2022-01-14 23:01:50,539] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:01:50,559] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:01:50,563] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.029 seconds
+[2022-01-14 23:02:20,682] {processor.py:163} INFO - Started process (PID=2596) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:02:20,696] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:02:20,697] {logging_mixin.py:109} INFO - [2022-01-14 23:02:20,697] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:02:20,715] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:02:20,718] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.039 seconds
+[2022-01-14 23:02:50,809] {processor.py:163} INFO - Started process (PID=2627) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:02:50,810] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:02:50,810] {logging_mixin.py:109} INFO - [2022-01-14 23:02:50,810] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:02:50,835] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:02:50,840] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.035 seconds
+[2022-01-14 23:03:20,979] {processor.py:163} INFO - Started process (PID=2669) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:03:20,997] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:03:20,998] {logging_mixin.py:109} INFO - [2022-01-14 23:03:20,998] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:03:21,027] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:03:21,032] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.056 seconds
+[2022-01-14 23:03:51,076] {processor.py:163} INFO - Started process (PID=2699) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:03:51,080] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:03:51,082] {logging_mixin.py:109} INFO - [2022-01-14 23:03:51,082] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:03:51,109] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:03:51,113] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.046 seconds
+[2022-01-14 23:04:21,168] {processor.py:163} INFO - Started process (PID=2730) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:04:21,189] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:04:21,189] {logging_mixin.py:109} INFO - [2022-01-14 23:04:21,189] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:04:21,210] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:04:21,214] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.050 seconds
+[2022-01-14 23:04:51,363] {processor.py:163} INFO - Started process (PID=2759) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:04:51,365] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:04:51,366] {logging_mixin.py:109} INFO - [2022-01-14 23:04:51,366] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:04:51,385] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:04:51,389] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.031 seconds
+[2022-01-14 23:05:22,278] {processor.py:163} INFO - Started process (PID=2798) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:05:22,302] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:05:22,303] {logging_mixin.py:109} INFO - [2022-01-14 23:05:22,302] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:05:22,321] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:05:22,325] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.050 seconds
+[2022-01-14 23:05:52,452] {processor.py:163} INFO - Started process (PID=2829) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:05:52,453] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:05:52,461] {logging_mixin.py:109} INFO - [2022-01-14 23:05:52,461] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:05:52,499] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:05:52,505] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.058 seconds
+[2022-01-14 23:06:22,612] {processor.py:163} INFO - Started process (PID=2858) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:06:22,613] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:06:22,614] {logging_mixin.py:109} INFO - [2022-01-14 23:06:22,614] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:06:22,631] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:06:22,635] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.028 seconds
+[2022-01-14 23:06:52,741] {processor.py:163} INFO - Started process (PID=2888) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:06:52,742] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:06:52,743] {logging_mixin.py:109} INFO - [2022-01-14 23:06:52,743] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:06:52,763] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:06:52,768] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.030 seconds
+[2022-01-14 23:07:22,935] {processor.py:163} INFO - Started process (PID=2927) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:07:22,963] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:07:22,963] {logging_mixin.py:109} INFO - [2022-01-14 23:07:22,963] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:07:22,982] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:07:22,986] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.054 seconds
+[2022-01-14 23:07:53,041] {processor.py:163} INFO - Started process (PID=2958) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:07:53,043] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:07:53,044] {logging_mixin.py:109} INFO - [2022-01-14 23:07:53,044] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:07:53,064] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:07:53,068] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.030 seconds
+[2022-01-14 23:08:23,208] {processor.py:163} INFO - Started process (PID=2988) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:08:23,239] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:08:23,240] {logging_mixin.py:109} INFO - [2022-01-14 23:08:23,240] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:08:23,260] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:08:23,264] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.061 seconds
+[2022-01-14 23:08:53,305] {processor.py:163} INFO - Started process (PID=3019) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:08:53,308] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:08:53,310] {logging_mixin.py:109} INFO - [2022-01-14 23:08:53,310] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:08:53,359] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:08:53,369] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.072 seconds
+[2022-01-14 23:09:23,502] {processor.py:163} INFO - Started process (PID=3059) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:09:23,535] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:09:23,536] {logging_mixin.py:109} INFO - [2022-01-14 23:09:23,535] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:09:23,557] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:09:23,561] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.063 seconds
+[2022-01-14 23:09:53,642] {processor.py:163} INFO - Started process (PID=3089) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:09:53,644] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:09:53,644] {logging_mixin.py:109} INFO - [2022-01-14 23:09:53,644] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:09:53,664] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:09:53,667] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.029 seconds
+[2022-01-14 23:10:23,824] {processor.py:163} INFO - Started process (PID=3120) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:10:23,826] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:10:23,830] {logging_mixin.py:109} INFO - [2022-01-14 23:10:23,830] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:10:23,863] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:10:23,869] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.051 seconds
+[2022-01-14 23:10:53,981] {processor.py:163} INFO - Started process (PID=3162) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:10:53,987] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:10:53,988] {logging_mixin.py:109} INFO - [2022-01-14 23:10:53,988] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:10:54,017] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:10:54,022] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.046 seconds
+[2022-01-14 23:11:24,076] {processor.py:163} INFO - Started process (PID=3191) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:11:24,078] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:11:24,080] {logging_mixin.py:109} INFO - [2022-01-14 23:11:24,079] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:11:24,100] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:11:24,104] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.040 seconds
+[2022-01-14 23:11:54,224] {processor.py:163} INFO - Started process (PID=3222) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:11:54,225] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:11:54,226] {logging_mixin.py:109} INFO - [2022-01-14 23:11:54,226] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:11:54,242] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:11:54,246] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.026 seconds
+[2022-01-14 23:12:24,385] {processor.py:163} INFO - Started process (PID=3247) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:12:24,389] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:12:24,392] {logging_mixin.py:109} INFO - [2022-01-14 23:12:24,391] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:12:24,452] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:12:24,465] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.093 seconds
+[2022-01-14 23:12:54,529] {processor.py:163} INFO - Started process (PID=3278) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:12:54,531] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:12:54,532] {logging_mixin.py:109} INFO - [2022-01-14 23:12:54,531] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:12:54,558] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:12:54,563] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.038 seconds
+[2022-01-14 23:13:24,679] {processor.py:163} INFO - Started process (PID=3319) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:13:24,684] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:13:24,685] {logging_mixin.py:109} INFO - [2022-01-14 23:13:24,685] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:13:24,704] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:13:24,708] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.032 seconds
+[2022-01-14 23:13:54,760] {processor.py:163} INFO - Started process (PID=3349) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:13:54,764] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:13:54,766] {logging_mixin.py:109} INFO - [2022-01-14 23:13:54,766] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:13:54,795] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:13:54,798] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.049 seconds
+[2022-01-14 23:14:25,287] {processor.py:163} INFO - Started process (PID=3380) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:14:25,291] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:14:25,292] {logging_mixin.py:109} INFO - [2022-01-14 23:14:25,292] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:14:25,311] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:14:25,314] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.029 seconds
+[2022-01-14 23:14:55,441] {processor.py:163} INFO - Started process (PID=3412) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:14:55,445] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:14:55,446] {logging_mixin.py:109} INFO - [2022-01-14 23:14:55,446] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:14:55,465] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:14:55,469] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.031 seconds
+[2022-01-14 23:15:25,566] {processor.py:163} INFO - Started process (PID=3455) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:15:25,567] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:15:25,568] {logging_mixin.py:109} INFO - [2022-01-14 23:15:25,568] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:15:25,586] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:15:25,591] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.028 seconds
+[2022-01-14 23:15:56,471] {processor.py:163} INFO - Started process (PID=3490) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:15:56,476] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:15:56,477] {logging_mixin.py:109} INFO - [2022-01-14 23:15:56,477] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:15:56,496] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:15:56,500] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.032 seconds
+[2022-01-14 23:16:26,590] {processor.py:163} INFO - Started process (PID=3526) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:16:26,593] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:16:26,595] {logging_mixin.py:109} INFO - [2022-01-14 23:16:26,595] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:16:26,620] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:16:26,623] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.043 seconds
+[2022-01-14 23:16:56,886] {processor.py:163} INFO - Started process (PID=3567) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:16:56,891] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:16:56,892] {logging_mixin.py:109} INFO - [2022-01-14 23:16:56,892] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:16:56,909] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:16:56,912] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.029 seconds
+[2022-01-14 23:17:27,028] {processor.py:163} INFO - Started process (PID=3597) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:17:27,029] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:17:27,031] {logging_mixin.py:109} INFO - [2022-01-14 23:17:27,030] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:17:27,055] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:17:27,060] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.036 seconds
+[2022-01-14 23:17:57,820] {processor.py:163} INFO - Started process (PID=3626) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:17:57,822] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:17:57,823] {logging_mixin.py:109} INFO - [2022-01-14 23:17:57,823] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:17:57,849] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:17:57,854] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.038 seconds
+[2022-01-14 23:18:28,014] {processor.py:163} INFO - Started process (PID=3666) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:18:28,016] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:18:28,017] {logging_mixin.py:109} INFO - [2022-01-14 23:18:28,017] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:18:28,067] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:18:28,072] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.072 seconds
+[2022-01-14 23:18:58,251] {processor.py:163} INFO - Started process (PID=3697) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:18:58,255] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:18:58,256] {logging_mixin.py:109} INFO - [2022-01-14 23:18:58,256] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:18:58,277] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:18:58,281] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.033 seconds
+[2022-01-14 23:19:28,401] {processor.py:163} INFO - Started process (PID=3730) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:19:28,403] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:19:28,403] {logging_mixin.py:109} INFO - [2022-01-14 23:19:28,403] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:19:28,420] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:19:28,423] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.025 seconds
+[2022-01-14 23:19:58,562] {processor.py:163} INFO - Started process (PID=3761) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:19:58,563] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:19:58,564] {logging_mixin.py:109} INFO - [2022-01-14 23:19:58,564] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:19:58,582] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:19:58,585] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.026 seconds
+[2022-01-14 23:20:28,731] {processor.py:163} INFO - Started process (PID=3791) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:20:28,732] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:20:28,733] {logging_mixin.py:109} INFO - [2022-01-14 23:20:28,733] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:20:28,758] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:20:28,763] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.037 seconds
+[2022-01-14 23:20:58,892] {processor.py:163} INFO - Started process (PID=3827) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:20:58,896] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:20:58,897] {logging_mixin.py:109} INFO - [2022-01-14 23:20:58,897] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:20:58,916] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:20:58,920] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.031 seconds
+[2022-01-14 23:21:29,058] {processor.py:163} INFO - Started process (PID=3857) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:21:29,059] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:21:29,060] {logging_mixin.py:109} INFO - [2022-01-14 23:21:29,060] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:21:29,079] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:21:29,082] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.027 seconds
+[2022-01-14 23:21:59,104] {processor.py:163} INFO - Started process (PID=3887) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:21:59,110] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:21:59,112] {logging_mixin.py:109} INFO - [2022-01-14 23:21:59,112] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:21:59,151] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:21:59,156] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.054 seconds
+[2022-01-14 23:22:29,258] {processor.py:163} INFO - Started process (PID=3925) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:22:29,260] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:22:29,260] {logging_mixin.py:109} INFO - [2022-01-14 23:22:29,260] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:22:29,286] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:22:29,294] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.039 seconds
+[2022-01-14 23:23:00,188] {processor.py:163} INFO - Started process (PID=3961) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:23:00,189] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:23:00,190] {logging_mixin.py:109} INFO - [2022-01-14 23:23:00,190] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:23:00,230] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:23:00,236] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.051 seconds
+[2022-01-14 23:23:30,318] {processor.py:163} INFO - Started process (PID=3990) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:23:30,319] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:23:30,320] {logging_mixin.py:109} INFO - [2022-01-14 23:23:30,319] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:23:30,337] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:23:30,340] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.025 seconds
+[2022-01-14 23:24:00,358] {processor.py:163} INFO - Started process (PID=4022) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:24:00,360] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:24:00,361] {logging_mixin.py:109} INFO - [2022-01-14 23:24:00,360] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:24:00,378] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:24:00,381] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.025 seconds
+[2022-01-14 23:24:30,497] {processor.py:163} INFO - Started process (PID=4062) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:24:30,498] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:24:30,499] {logging_mixin.py:109} INFO - [2022-01-14 23:24:30,499] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:24:30,523] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:24:30,527] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.035 seconds
+[2022-01-14 23:25:00,650] {processor.py:163} INFO - Started process (PID=4093) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:25:00,654] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:25:00,655] {logging_mixin.py:109} INFO - [2022-01-14 23:25:00,655] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:25:00,673] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:25:00,676] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.029 seconds
+[2022-01-14 23:25:30,772] {processor.py:163} INFO - Started process (PID=4122) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:25:30,773] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:25:30,774] {logging_mixin.py:109} INFO - [2022-01-14 23:25:30,774] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:25:30,792] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:25:30,795] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.026 seconds
+[2022-01-14 23:26:00,926] {processor.py:163} INFO - Started process (PID=4153) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:26:00,930] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:26:00,931] {logging_mixin.py:109} INFO - [2022-01-14 23:26:00,931] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:26:00,949] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:26:00,952] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.029 seconds
+[2022-01-14 23:26:31,059] {processor.py:163} INFO - Started process (PID=4182) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:26:31,062] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:26:31,063] {logging_mixin.py:109} INFO - [2022-01-14 23:26:31,063] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:26:31,089] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:26:31,094] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.040 seconds
+[2022-01-14 23:27:01,129] {processor.py:163} INFO - Started process (PID=4221) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:27:01,131] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:27:01,131] {logging_mixin.py:109} INFO - [2022-01-14 23:27:01,131] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:27:01,153] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:27:01,158] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.033 seconds
+[2022-01-14 23:27:31,263] {processor.py:163} INFO - Started process (PID=4252) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:27:31,264] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:27:31,265] {logging_mixin.py:109} INFO - [2022-01-14 23:27:31,265] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:27:31,284] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:27:31,288] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.027 seconds
+[2022-01-14 23:28:01,412] {processor.py:163} INFO - Started process (PID=4282) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:28:01,417] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:28:01,418] {logging_mixin.py:109} INFO - [2022-01-14 23:28:01,418] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:28:01,443] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:28:01,451] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.043 seconds
+[2022-01-14 23:28:32,226] {processor.py:163} INFO - Started process (PID=4312) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:28:32,227] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:28:32,228] {logging_mixin.py:109} INFO - [2022-01-14 23:28:32,228] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:28:32,255] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:28:32,260] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.038 seconds
+[2022-01-14 23:29:02,465] {processor.py:163} INFO - Started process (PID=4353) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:29:02,469] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:29:02,469] {logging_mixin.py:109} INFO - [2022-01-14 23:29:02,469] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:29:02,490] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:29:02,495] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.033 seconds
+[2022-01-14 23:29:33,467] {processor.py:163} INFO - Started process (PID=4383) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:29:33,474] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:29:33,476] {logging_mixin.py:109} INFO - [2022-01-14 23:29:33,476] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:29:33,509] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:29:33,514] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.066 seconds
+[2022-01-14 23:30:03,606] {processor.py:163} INFO - Started process (PID=4412) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:30:03,607] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:30:03,608] {logging_mixin.py:109} INFO - [2022-01-14 23:30:03,608] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:30:03,640] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:30:03,643] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.042 seconds
+[2022-01-14 23:30:33,747] {processor.py:163} INFO - Started process (PID=4444) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:30:33,749] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:30:33,750] {logging_mixin.py:109} INFO - [2022-01-14 23:30:33,750] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:30:33,769] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:30:33,773] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.030 seconds
+[2022-01-14 23:31:04,092] {processor.py:163} INFO - Started process (PID=4483) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:31:04,094] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:31:04,095] {logging_mixin.py:109} INFO - [2022-01-14 23:31:04,095] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:31:04,123] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:31:04,128] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.040 seconds
+[2022-01-14 23:31:34,321] {processor.py:163} INFO - Started process (PID=4514) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:31:34,323] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:31:34,325] {logging_mixin.py:109} INFO - [2022-01-14 23:31:34,324] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:31:34,355] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:31:34,360] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.047 seconds
+[2022-01-14 23:32:04,498] {processor.py:163} INFO - Started process (PID=4544) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:32:04,499] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:32:04,500] {logging_mixin.py:109} INFO - [2022-01-14 23:32:04,500] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:32:04,520] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:32:04,525] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.030 seconds
+[2022-01-14 23:32:34,627] {processor.py:163} INFO - Started process (PID=4573) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:32:34,631] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:32:34,632] {logging_mixin.py:109} INFO - [2022-01-14 23:32:34,632] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:32:34,665] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:32:34,668] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.051 seconds
+[2022-01-14 23:33:04,797] {processor.py:163} INFO - Started process (PID=4612) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:33:04,798] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:33:04,799] {logging_mixin.py:109} INFO - [2022-01-14 23:33:04,799] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:33:04,821] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:33:04,828] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.036 seconds
+[2022-01-14 23:33:34,898] {processor.py:163} INFO - Started process (PID=4638) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:33:34,900] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:33:34,901] {logging_mixin.py:109} INFO - [2022-01-14 23:33:34,900] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:33:34,925] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:33:34,929] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.035 seconds
+[2022-01-14 23:34:05,227] {processor.py:163} INFO - Started process (PID=4668) to work on /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:34:05,230] {processor.py:642} INFO - Processing file /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx for tasks to queue
+[2022-01-14 23:34:05,232] {logging_mixin.py:109} INFO - [2022-01-14 23:34:05,231] {dagbag.py:500} INFO - Filling up the DagBag from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:34:05,253] {processor.py:656} WARNING - No viable dags retrieved from /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx
+[2022-01-14 23:34:05,256] {processor.py:171} INFO - Processing /opt/airflow/dags/source/vendas-combustiveis-m3.xlsx took 0.040 seconds
